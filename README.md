@@ -4,6 +4,8 @@ Files
 
 Test Data (file alphabetical_testing) - Used to develope the scripts.
 Stock Data (file Multiple_year_stock_data_Final_yea) - Final Stock Market Analyst for 2014 through 2016
+Stock_breakdown is the VBA script
+Results screenshots are in Word document Stock Year Screenshots
 
 Stock Market Analyst
 Stock_breakdown is a script that will loop through all the stocks for one year and output the following information:
