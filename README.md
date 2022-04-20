@@ -6,8 +6,17 @@ Stock Data (file Multiple_year_stock_data_Final_yea) - Final Stock Market Analys
 Stock_breakdown is the VBA script
 Results screenshots are in Word document Stock Year Screenshots
 
+2014 Results
+![image](https://user-images.githubusercontent.com/85321602/164327794-d8a2a5c2-6034-4204-b508-622c561956c1.png)
+
+2015 Results
+![image](https://user-images.githubusercontent.com/85321602/164327811-42a4db43-447b-4cb6-92de-4c18918b1028.png)
+
+2016 Results
+![image](https://user-images.githubusercontent.com/85321602/164327832-44c5629f-00ad-4ccb-a444-28eac5273c63.png)
 
 Stock Market Analyst
+
 Stock_breakdown is a script that will loop through all the stocks for one year and output the following information:
 The ticker symbol.
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
