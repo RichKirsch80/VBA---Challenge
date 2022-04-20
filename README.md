@@ -22,17 +22,13 @@ Results screenshots are in Word document Stock Year Screenshots
 Stock Market Analyst
 
 Stock_breakdown is a script that will loop through all the stocks for one year and output the following information:
-The ticker symbol.
+The ticker symbol. Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+The percent change from opening price at the beginning of a given year to the closing price at the end of that year. The total stock volume of the stock.
+The Greatest % increase in stock value for each year. The Greatest % decrease in stock value for each year. The Greatest total volume for a stock for each year. 
 ![image](https://user-images.githubusercontent.com/85321602/164329641-cde39ce2-f3eb-4536-adde-fb4fc8d0a4e3.png)
 
-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-The total stock volume of the stock.
-The Greatest % increase in stock value for each year.
-The Greatest % decrease in stock value for each year. 
-The Greatest total volume for a stock for each year. 
-
 Added automatic formating for cells to add more polish. 
+![image](https://user-images.githubusercontent.com/85321602/164330200-fba908a3-4d77-48e9-860f-941e9335a8c2.png)
 
 
 
