@@ -3,6 +3,9 @@ Goals - VBA script for Stock Breakdown answers the question, how can we automate
 Test Data (file alphabetical_testing) - Used to develop the scripts.
 ![image](https://user-images.githubusercontent.com/85321602/164328244-2252211f-2ca2-46aa-98e1-fccc88728f0f.png)
 
+Raw Stock data for 2014 to 2016
+![image](https://user-images.githubusercontent.com/85321602/164328637-b2aa7949-6e1a-45e3-a139-380514a687a5.png)
+
 Stock Data (file Multiple_year_stock_data_Final_yea) - Final Stock Market Analyst for 2014 through 2016
 Stock_breakdown is the VBA script
 Results screenshots are in Word document Stock Year Screenshots
