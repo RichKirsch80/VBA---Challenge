@@ -1,6 +1,7 @@
 Goals - VBA script for Stock Breakdown answers the question, how can we automate excel to create a stock breakdown using VBA. The VBA script creates and formats the following new columns: Ticker, Yearly Change with conditional formating, Percent Change and Total Stock Volume. In addition to these new columns, three data analysis fields for Greatest Increase, Decrease, and total volume for each tab from 2016-2014.
 
-Test Data (file alphabetical_testing) - Used to develope the scripts.
+Test Data (file alphabetical_testing) - Used to develop the scripts.
+![image](https://user-images.githubusercontent.com/85321602/164328244-2252211f-2ca2-46aa-98e1-fccc88728f0f.png)
 
 Stock Data (file Multiple_year_stock_data_Final_yea) - Final Stock Market Analyst for 2014 through 2016
 Stock_breakdown is the VBA script
