@@ -23,6 +23,8 @@ Stock Market Analyst
 
 Stock_breakdown is a script that will loop through all the stocks for one year and output the following information:
 The ticker symbol.
+![image](https://user-images.githubusercontent.com/85321602/164329641-cde39ce2-f3eb-4536-adde-fb4fc8d0a4e3.png)
+
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 The total stock volume of the stock.
